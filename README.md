@@ -21,3 +21,5 @@ https://github.com/mseknibilel/OpenStack-Folsom-Install-guide/blob/master/OpenSt
 **Note:** Folsom + Quantum on VLAN with 2 NICs is available through VLAN/2NICs branch:
 
 https://github.com/mseknibilel/OpenStack-Folsom-Install-guide/blob/VLAN/2NICs/OpenStack_Folsom_Install_Guide_WebVersion.rst
+
+The picture is awesome!
